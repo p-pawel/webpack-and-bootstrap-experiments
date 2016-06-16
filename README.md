@@ -7,3 +7,6 @@ Loosely based on:
 - https://egghead.io/lessons/angularjs-angular-with-webpack-introduction (first free lesson)
 
 Do not hesitate to criticize :)
+
+
+To start `npm install` and then`webpack` or for dev `npm start`
